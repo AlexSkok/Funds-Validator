@@ -1,0 +1,1 @@
+<h1>App "Funds Validator"</h1>
